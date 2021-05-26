@@ -1,0 +1,3 @@
+﻿  ProiectSincretic.c
+D:\Poli\Project22\Project22\ProiectSincretic.c(87,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project22.vcxproj -> D:\Poli\Project22\Debug\Project22.exe
